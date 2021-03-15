@@ -1,6 +1,6 @@
--file
--commit
--things
--the list
--work
--security
+- file
+- commit
+- things
+- the list
+- work
+- security
